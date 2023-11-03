@@ -1,0 +1,15 @@
+C:\Users\Даниил\munkushi_dev\Bonch\lovelove\lovelovelove\bin\Debug\net6.0\lovelovelove.exe
+C:\Users\Даниил\munkushi_dev\Bonch\lovelove\lovelovelove\bin\Debug\net6.0\lovelovelove.deps.json
+C:\Users\Даниил\munkushi_dev\Bonch\lovelove\lovelovelove\bin\Debug\net6.0\lovelovelove.runtimeconfig.json
+C:\Users\Даниил\munkushi_dev\Bonch\lovelove\lovelovelove\bin\Debug\net6.0\lovelovelove.dll
+C:\Users\Даниил\munkushi_dev\Bonch\lovelove\lovelovelove\bin\Debug\net6.0\lovelovelove.pdb
+C:\Users\Даниил\munkushi_dev\Bonch\lovelove\lovelovelove\obj\Debug\net6.0\lovelovelove.csproj.AssemblyReference.cache
+C:\Users\Даниил\munkushi_dev\Bonch\lovelove\lovelovelove\obj\Debug\net6.0\lovelovelove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даниил\munkushi_dev\Bonch\lovelove\lovelovelove\obj\Debug\net6.0\lovelovelove.AssemblyInfoInputs.cache
+C:\Users\Даниил\munkushi_dev\Bonch\lovelove\lovelovelove\obj\Debug\net6.0\lovelovelove.AssemblyInfo.cs
+C:\Users\Даниил\munkushi_dev\Bonch\lovelove\lovelovelove\obj\Debug\net6.0\lovelovelove.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\munkushi_dev\Bonch\lovelove\lovelovelove\obj\Debug\net6.0\lovelovelove.dll
+C:\Users\Даниил\munkushi_dev\Bonch\lovelove\lovelovelove\obj\Debug\net6.0\refint\lovelovelove.dll
+C:\Users\Даниил\munkushi_dev\Bonch\lovelove\lovelovelove\obj\Debug\net6.0\lovelovelove.pdb
+C:\Users\Даниил\munkushi_dev\Bonch\lovelove\lovelovelove\obj\Debug\net6.0\lovelovelove.genruntimeconfig.cache
+C:\Users\Даниил\munkushi_dev\Bonch\lovelove\lovelovelove\obj\Debug\net6.0\ref\lovelovelove.dll
